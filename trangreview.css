@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+
+}
+.img-main{
+    width: 1000px;
+    /* height: 40%; */
+}
+
+.img-main img{
+    width: 100%;
+}
+.content{
+    
+    text-align: justify;
+    background-color: rgb(222, 211, 211);
+    
+
+}
+.in1{
+    width: 100px;
+    height: 30px;
+    margin-top: 30px;
+    background-color: aquamarine;
+
+}
+.content h2{
+    padding: 20px 0px 10px 0px;
+}
+.abc{
+    margin: 10px 20px 0 20px;
+}
+.in1:hover {
+background-color: blueviolet;
+color: aqua;
+}
