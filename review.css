@@ -5,6 +5,15 @@ img{
 }
 button{
     background-color: blueviolet;
-    position: hover;
+    
 }
-
+.aa{
+    background-color: aqua;
+    border: 2px solid goldenrod;
+    padding: 5px;
+}
+.aa:hover{
+    background-color: black;
+    color: bisque;
+    padding: 5px;
+}
